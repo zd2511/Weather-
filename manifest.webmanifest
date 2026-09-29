@@ -1,13 +1,13 @@
 {
-  "name": "Vaal Weather Max",
-  "short_name": "Vaal Weather",
-  "description": "Hyper-local weather intelligence for Vanderbijlpark, Nanescol AH, the Vaal and surrounding Gauteng.",
-  "start_url": "./",
-  "scope": "./",
-  "display": "standalone",
-  "orientation": "portrait-primary",
-  "background_color": "#070a12",
-  "theme_color": "#070a12",
-  "lang": "en-ZA",
-  "icons": [{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+  "name":"Zapify Weather",
+  "short_name":"Zapify Weather",
+  "description":"Live South African weather, forecasts, radar, weather models and practical weather intelligence.",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "orientation":"portrait-primary",
+  "background_color":"#eaf7ff",
+  "theme_color":"#0b6fb8",
+  "lang":"en-ZA",
+  "icons":[{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
 }
