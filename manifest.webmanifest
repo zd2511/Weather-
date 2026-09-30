@@ -1,13 +1,20 @@
 {
-  "name":"Zapify Weather",
-  "short_name":"Zapify Weather",
-  "description":"Live South African weather, forecasts, radar, weather models and practical weather intelligence.",
-  "start_url":"./",
-  "scope":"./",
-  "display":"standalone",
-  "orientation":"portrait-primary",
-  "background_color":"#eaf7ff",
-  "theme_color":"#0b6fb8",
-  "lang":"en-ZA",
-  "icons":[{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+  "name": "Zapify Weather",
+  "short_name": "Zapify Weather",
+  "description": "Live South African weather, forecasts, radar, weather models and practical weather intelligence.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#07131e",
+  "theme_color": "#0f6f9e",
+  "lang": "en-ZA",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
 }
